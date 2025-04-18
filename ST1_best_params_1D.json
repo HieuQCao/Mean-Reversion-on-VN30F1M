@@ -1,0 +1,14 @@
+[
+  {
+    "cut_loss_thres": 0.013674202114942611,
+    "bb_window": 49,
+    "bb_std": 1.2818484499495253,
+    "sma_window": 21
+  },
+  {
+    "cut_loss_thres": 0.012029909629911894,
+    "bb_window": 35,
+    "bb_std": 1.1126065513636747,
+    "sma_window": 6
+  }
+]
