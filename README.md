@@ -4,8 +4,10 @@
  compared to momentum strategies. However, blindly buying assets below a benchmark is risky, as
  strong momentum continuation can lead to significant losses. To mitigate this, the strategy
  incorporates additional conditions:
+ 
 ● Enter a Long position when the price is oversold, begins to show signs of recovery, and
  crosses a specified moving average (MA).
+ 
  ● Enter a Short position under similar conditions when the price is overbought
  ## Backtesting
  ### 1 Minute 
