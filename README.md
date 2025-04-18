@@ -20,9 +20,9 @@ sma_window': 91
 ```
 **Result**
 -**In Sample**
-![Example Image](./images/1min.png)
+![Example Image](./img/1min.png)
 -**Out Sample**
-![Example Image](./images/1min_os.png)
+![Example Image](./img/1min_os.png)
  ### 5 Minute 
  ```
 {
@@ -34,9 +34,9 @@ sma_window': 91
 ```
 **Result**
 -**In Sample**
-![Example Image](./images/5min.png)
+![Example Image](./img/5min.png)
 -**Out Sample**
-![Example Image](./images/5min_os.png)
+![Example Image](./img/5min_os.png)
  ### 1 Day
 
  ```
@@ -50,6 +50,6 @@ sma_window': 91
 ```
 **Result**
 -**In Sample**
-![Example Image](./images/1day.png)
+![Example Image](./img/1day.png)
 -**Out Sample**
-![Example Image](./images/1day_os.png)
+![Example Image](./img/1day_os.png)
