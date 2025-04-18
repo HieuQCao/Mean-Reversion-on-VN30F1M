@@ -1,0 +1,26 @@
+[
+  {
+    "cut_loss_thres": 0.009450233005530457,
+    "bb_window": 27,
+    "bb_std": 1.116167224336399,
+    "sma_window": 24
+  },
+  {
+    "cut_loss_thres": 0.009520358926182672,
+    "bb_window": 68,
+    "bb_std": 1.3993475643167195,
+    "sma_window": 29
+  },
+  {
+    "cut_loss_thres": 0.008606156275648993,
+    "bb_window": 41,
+    "bb_std": 1.994497011784771,
+    "sma_window": 38
+  },
+  {
+    "cut_loss_thres": 0.008606156275648993,
+    "bb_window": 27,
+    "bb_std": 1.994497011784771,
+    "sma_window": 27
+  }
+]

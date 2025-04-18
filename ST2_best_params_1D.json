@@ -1,0 +1,9 @@
+[
+  {
+    "cut_loss_thres": 0.009199008454189143,
+    "lookback_period": 14,
+    "upbound": 0.009367476782809248,
+    "downbound": -0.0914652535006232,
+    "sma_window": 4
+  }
+]
